@@ -12,6 +12,6 @@ tags: []
 - [Unidad 3](https://github.com/kochq/unnoba/tree/main/pi/unidad3)
     - [[Pointers]]
     - [[Stack&Heap]]
-    - [[SimpleLinkedList]]
+    - [[Simply_linked_lists]]
 - [Unidad 4](https://github.com/kochq/unnoba/tree/main/pi/unidad4)
     - [[Recursivity]]

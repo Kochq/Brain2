@@ -21,4 +21,4 @@ int value = *ptr;
 ```
 ___
 
-You can also use the [new](NewOperator) and [delete](DeleteOperator) operators
+You can also use the [new](New_operator.md) and [delete](Delete_operator.md) operators

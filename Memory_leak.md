@@ -1,9 +1,9 @@
-A memory leak occurs in a program when the program allocates memory dynamically (usually using [new](NewOperator) in C++) but fails to deallocate or free that memory (using [delete](DeleteOperator)) before the program terminates. 
+A memory leak occurs in a program when the program allocates memory dynamically (usually using [new](New_operator.md) in C++) but fails to deallocate or free that memory (using [delete](Delete_operator.md)) before the program terminates. 
 
 >[!Example]
 > Here is a step by step of how a memory leak can happen:
 > 1. **Dynamic memory allocation:**
->    - The program allocates memory on the heap using operator like [new](NewOperator) in C++
+>    - The program allocates memory on the heap using operator like [new](New_operator.md) in C++
 > 	   ```cpp
 > 	   int *dynamicPtr = new int;
 >      ```
@@ -19,4 +19,4 @@ A memory leak occurs in a program when the program allocates memory dynamically 
 
 > [!Summary]
 > - **Memory leaks** happen when the program loses the reference to dynamically allocated memory, preventing the system from reclaiming that memory for future use.
-> - To avoid **memory leaks**, it's essential to ensure that every dynamically allocated memory block is properly deallocated using the corresponding [delete](DeleteOperator) operator
+> - To avoid **memory leaks**, it's essential to ensure that every dynamically allocated memory block is properly deallocated using the corresponding [delete](Delete_operator.md) operator

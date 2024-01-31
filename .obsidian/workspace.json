@@ -4,20 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "ca6fd8405675eb54",
+        "id": "471683d6f47478a8",
         "type": "tabs",
+        "dimension": 52.97356828193833,
         "children": [
           {
-            "id": "d9c80cc1c0182fd2",
+            "id": "a573d62a66d91951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "Shader.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "57b5e3c94961ecc9"
+          },
+          {
+            "id": "0ec94a434ec0ca7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relevar.md",
                 "mode": "source",
                 "source": false
               }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7b8ee1a5cfbf8888",
+        "type": "tabs",
+        "dimension": 47.02643171806167,
+        "children": [
+          {
+            "id": "29ee5ce84a17c3c3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Shader.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.44444444444444425,
+                  "close": true
+                }
+              }
+            },
+            "group": "57b5e3c94961ecc9"
           }
         ]
       }
@@ -85,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start.md",
+                "file": "Relevar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start.md",
+                "file": "Relevar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md"
+                "file": "Relevar.md"
               }
             }
           }
@@ -146,31 +204,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9c80cc1c0182fd2",
+  "active": "0ec94a434ec0ca7b",
   "lastOpenFiles": [
-    "ProgramacionImperativa.md",
-    "Start.md",
-    "IntroduccionALaProgramacionImperativa(IPI).md",
+    "Untitled 1.md",
+    "Relevar.md",
+    "Shader.md",
+    "Vertex_buffer.md",
+    "Buffer.md",
+    "OpenGL.md",
+    "Vertex.md",
+    "Computer_graphics.md",
+    "Vertex_attributes.md",
     "4913",
+    "Vertex_data.md",
+    "1704569040-computergraphics.md",
+    "Programacion_imperativa.md",
     "Untitled.canvas",
-    "memory address.md",
+    "Delete_operator.md",
+    "Data_structures.md",
+    "Memory.md",
+    "Computer_science.md",
+    "Start.md",
+    "README.md",
+    "New_operator.md",
+    "Memory_leak.md",
     "Pointers.md",
-    "MemoryLeak.md",
-    "DeleteOperator.md",
-    "NewOperator.md",
-    "New operator.md",
+    "IntroduccionALaProgramacionImperativa(IPI).md",
+    "memory address.md",
     "Delete.md",
-    "Delete operator.md",
     "New.md",
     "memory leak.md",
-    "new.md",
-    "delete.md",
-    "1704493787-delete.md",
     "templates",
     "notes/dailies",
-    "notes",
-    "Programacion Imperativa.md",
-    "pointers.md",
-    "Welcome.md"
+    "notes"
   ]
 }

@@ -1,0 +1,5 @@
+[[Programacion_imperativa]]
+[[Recursivity]]
+[[Data_structures]]
+[[Memory]]
+[[Computer_graphics]]

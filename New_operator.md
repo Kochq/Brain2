@@ -10,10 +10,10 @@ int *arrPtr = new int[5];
 ```
 
 > [!Warning]
-> The **new** operator returns a pointer to the allocated memory. It's important to note that memory allocated with **new** persist until it is explicitly deallocated with the [delete](DeleteOperator) operator
+> The **new** operator returns a pointer to the allocated memory. It's important to note that memory allocated with **new** persist until it is explicitly deallocated with the [delete](Delete_operator.md) operator
 
 > [!Example]
-> Here is a simple example on c++ using [delete](DeleteOperator) alongside with **new**
+> Here is a simple example on c++ using [delete](Delete_operator.md) alongside with **new**
 > ```cpp
 > #include <iostream>
 > 

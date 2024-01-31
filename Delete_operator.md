@@ -1,4 +1,4 @@
-The **delete** operator is used to deallocate memory that was previously allocated using [new](NewOperator). It releases the memory back to the system.
+The **delete** operator is used to deallocate memory that was previously allocated using [new](New_operator.md). It releases the memory back to the system.
 
 ##### The syntax for using delete is as follows:
 
@@ -11,7 +11,7 @@ delete[] arrPtr;
 ```
 
 > [!Warning]
-> It's crucial to use **delete** for every corresponding [new](NewOperator). If is not deallocated, it can lead to a gradual increase in the program's memory usage, causing a [memory leak](MemoryLeak)
+> It's crucial to use **delete** for every corresponding [new](New_operator.md). If is not deallocated, it can lead to a gradual increase in the program's memory usage, causing a [memory leak](Memory_leak.md)
 
 > [!Example]
 > Here is a simple example on c++ using **delete** alongside with **new**
